@@ -1,2 +1,1 @@
-# lzss
-LZSS compression
+# lzss - some LZSS compression / decompression
